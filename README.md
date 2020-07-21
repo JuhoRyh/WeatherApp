@@ -1,3 +1,15 @@
+# WeatherApp
+
+WeatherApp is a React app for finding the weather of a city or address
+
+View on [Heroku](https://glacial-plains-08639.herokuapp.com/)
+
+## Reflection
+
+- The idea was to make a React app which utilizes React Hooks and fetches some data from an API. 
+- I had to use two different APIs which made me more used to handling data from these.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
